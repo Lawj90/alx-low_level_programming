@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - print the string in the put function
+ * main - print the size of many var types
  * Description: using the main function
- * this program prints the size of various type of the computer
+ * this program prints "Programming is like the building a multilingual puzzle
  * return: 0
  */
 int main(void)
