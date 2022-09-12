@@ -2,9 +2,9 @@
 
 /**
  * main - lower case alphabets
- * Description: using char to print alphabet in lower case
+ * Description: using the main function
  * this program prints alphabet in lower case
- * return: Always (success)
+ * Return: Always (success)
  */
 
 int main(void)
