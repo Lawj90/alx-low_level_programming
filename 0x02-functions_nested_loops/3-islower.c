@@ -11,5 +11,5 @@ int _islower(int n)
 
 	r = _islower(n);
 	_putchar(r + '0');
-	_putchar('\n')
+	_putchar('\n');
 }
